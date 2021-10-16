@@ -13,8 +13,8 @@ Crianças consomem 80% de uma pessoa adulta.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Blue | ![#03045E](https://via.placeholder.com/10/0a192f?text=+) #03045E |
-| Yellow| ![#FFBA08](https://via.placeholder.com/10/f8f8f8?text=+) #FFBA08 |
+| Blue | ![#03045E](https://via.placeholder.com/10/03045E?text=+) #03045E |
+| Yellow| ![#FFBA08](https://via.placeholder.com/10/FFBA08?text=+) #FFBA08 |
 
 
 ## License
