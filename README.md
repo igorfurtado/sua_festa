@@ -45,6 +45,9 @@ SOFTWARE.
 ## Screenshot
 
 ![App Screenshot](https://igortargino.vercel.app/LAYOUT/sua_festa_mockup.png)
+![iPad_sua_festa](https://user-images.githubusercontent.com/70289587/137595616-92191ee1-424e-4487-b0a5-49d8491315d7.png)
+[iPhone_SUA_FESTA](https://user-images.githubusercontent.com/70289587/137595621-e23133af-5754-4831-8d4b-301445afb3a2.png)
+
 
   
 ## Tech Stack
