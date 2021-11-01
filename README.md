@@ -16,6 +16,19 @@ Crianças consomem 80% de uma pessoa adulta.
 | Blue | ![#03045E](https://via.placeholder.com/10/03045E?text=+) #03045E |
 | Yellow| ![#FFBA08](https://via.placeholder.com/10/FFBA08?text=+) #FFBA08 |
 
+  
+## Screenshot
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70289587/139700533-0cc2a615-2cb3-4926-8b32-be8d31c0d9bb.png" alt="Sua Festa"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70289587/137595616-92191ee1-424e-4487-b0a5-49d8491315d7.png"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70289587/137595649-f7eda2ff-6ca2-4f14-8545-7d344ded3dae.png"/>
+</div>
+
 
 ## License
 
@@ -40,19 +53,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-  
-## Screenshot
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/70289587/139700533-0cc2a615-2cb3-4926-8b32-be8d31c0d9bb.png" alt="Sua Festa"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/70289587/137595616-92191ee1-424e-4487-b0a5-49d8491315d7.png"/>
-</div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/70289587/137595649-f7eda2ff-6ca2-4f14-8545-7d344ded3dae.png"/>
-</div>
 
   
 ## Tech Stack
