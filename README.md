@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70289587/139700898-4202b34c-2d56-486a-9125-b3cbc1ae35b1.png" alt="Logo Sua Festa"/>
+</p>
+
 
 # Sua festa!
 
