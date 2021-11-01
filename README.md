@@ -44,11 +44,15 @@ SOFTWARE.
   
 ## Screenshot
 
-![App Screenshot](https://igortargino.vercel.app/LAYOUT/sua_festa_mockup.png)
-![iPad_sua_festa](https://user-images.githubusercontent.com/70289587/137595616-92191ee1-424e-4487-b0a5-49d8491315d7.png)
-![iPhone_SUA_FESTA](https://user-images.githubusercontent.com/70289587/137595649-f7eda2ff-6ca2-4f14-8545-7d344ded3dae.png)
-
-
+<div align="center">
+  <img src="https://https://igortargino.vercel.app/LAYOUT/sua_festa_mockup.png" alt="Sua Festa"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70289587/137595616-92191ee1-424e-4487-b0a5-49d8491315d7.png"/>
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70289587/137595649-f7eda2ff-6ca2-4f14-8545-7d344ded3dae.png"/>
+</div>
 
   
 ## Tech Stack
